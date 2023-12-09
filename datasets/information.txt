@@ -1,0 +1,2 @@
+Datasets used for the research.
+ETH (eth, hotel) and UCY (uni, zara01, zara02, zara03) pedestrian datasets.
